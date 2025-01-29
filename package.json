@@ -1,0 +1,17 @@
+{
+  "name": "hng_stage_0",
+  "version": "1.0.0",
+  "description": "HNG Internship Stage 0 task",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "HNG"
+  ],
+  "author": "Isaac K. Sarfo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
